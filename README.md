@@ -20,7 +20,7 @@ Skills:  HTML / CSS / PHP/Laravel/Software Requirement/ Business Analysis/Micros
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShnigdhaPaul&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ShnigdhaPaul)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShnigdhaPaul)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ShnigdhaPaul)  
 
