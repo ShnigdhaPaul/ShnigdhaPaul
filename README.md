@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Shnigdha Paul
 #### Software Engineer
-![Software Engineer](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/293060972_3261343727484252_8253825861177138493_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeE6L5gwDSXCG6gkNkOZa_uFRb2KU9OfiytFvYpT05-LKyhyoeG54vvwHZczSYrlpOdnfKk2lEDzNSFd1lrfuYy9&_nc_ohc=4P0E1gtiGHMAX-35710&_nc_ht=scontent.fdac140-1.fna&oh=00_AfCcTX4jGqX7rmNdkeKb1wMI0WF4pwu_mT2aNvCydVBC7A&oe=64795BBE)
-
 A learner who love to discuss about things which can be a unique solution for the surroundings.
 
 Skills:  HTML / CSS / PHP/Laravel/Software Requirement/ Business Analysis/Microsoft Office
